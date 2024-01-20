@@ -1,5 +1,5 @@
-# Semiconductor Optics Simulations
-bunch of scripts for simulating various semiconductor optics devices; written in VBA and MATLAB
+# semiconductor optics simulations
+scripts for simulating various semiconductor optics devices; written in VBA and MATLAB
 
 ### MATLAB - AlxGa1−xAs Quantum Well Simulation (`MATLAB_AlGaAs.m`)
 script is for designing a quantum well inside VCSEL to emit light at a specific wavelength (i.e 850 nm) using modified aluminium gallium arsenide (AlGaAs) materials. The script calculates the necessary material compositions, potential, and effective electron mass for different concentrations of Aluminium in AlGaAs. It also includes for visualizions for the potential, effective mass, and transmission coefficients, as well as calculating and plotting wave functions.
