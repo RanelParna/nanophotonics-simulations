@@ -1,7 +1,3 @@
-close all
-clear
-clf
-
 input_file='TM_E_layers.dat';
 output_transmission='TM_E_trans.txt';
 %output_peaks='C:\nanofotoonika\MATLAB\TM_E_peaks.txt';  %!!!
