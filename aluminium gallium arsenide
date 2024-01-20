@@ -1,3 +1,6 @@
+# Designing a Quantum Well to emit at the wavelength 850 nm, using an appropriate material system based on composition of 
+#  aluminium gallium arsenide.
+
 input_file='TM_E _layers . dat';
 output_transmission='TM_E _trans . txt';
 % output_peaks='C:\n anofotoonika\MATLAB\TM_E_peaks . txt';  %!!!
