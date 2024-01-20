@@ -1,6 +1,6 @@
 # Semiconductor Optics Simulations
 
-This repository contains a collection of scripts used for simulating and analyzing various semiconductor optics devices. The scripts are written in MATLAB and VBA and are intended for researchers and engineers working in the field of semiconductor optics, specifically focusing on quantum wells and VCSELs (Vertical-Cavity Surface-Emitting Lasers).
+This repository contains a collection of scripts used for simulating and analyzing various semiconductor optics devices. The scripts are written in VBA and MATLAB and are focussed on quantum wells and VCSELs (Vertical-Cavity Surface-Emitting Lasers).
 
 ## Contents
 
